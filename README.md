@@ -1,7 +1,10 @@
-# C++ practice
 <div align="center"><img src="./images/logo.JPG" width="100"></div>
 
+# C++ practice
+
 [![](https://img.shields.io/badge/Level-Beginner-blue)](https://github.com/chiehpower/cxx_practice)
+
+[![](https://img.shields.io/badge/Done-Stage__1-lightgrey)](https://github.com/chiehpower/cxx_practice/tree/master/Stage_1)
 
 *Only for c++ practice*
 

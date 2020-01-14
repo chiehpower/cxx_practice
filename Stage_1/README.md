@@ -8,10 +8,12 @@ Source from : [C++ 入門指南](http://kaiching.org/pydoing/cpp.htmls)
 2. `using namespace std;` : std is the namespace of standard lib for program
 3. `cout <<` : do it. The order starts from left to right.
 
+---
 ## Day2
 
 C++ ```string m(" words ")``` == Python ```  m = str("words")```
 
+---
 ## Day3
 
 1. `* star` is using to store the memory location.
@@ -24,6 +26,7 @@ C++ ```string m(" words ")``` == Python ```  m = str("words")```
 
 3. ```string a = "There is string.";```  == ```string *a = new string("There is string.");```
 
+---
 ## Day4
 
 Expression = operand + operator
