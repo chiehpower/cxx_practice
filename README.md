@@ -2,9 +2,7 @@
 
 # C++ practice
 
-[![](https://img.shields.io/badge/Level-Beginner-blue)](https://github.com/chiehpower/cxx_practice)
-
-[![](https://img.shields.io/badge/Done-Stage__1-lightgrey)](https://github.com/chiehpower/cxx_practice/tree/master/Stage_1)
+[![](https://img.shields.io/badge/Level-Beginner-blue)](https://github.com/chiehpower/cxx_practice) [![](https://img.shields.io/badge/Done-Stage__1-lightgrey)](https://github.com/chiehpower/cxx_practice/tree/master/Stage_1)
 
 *Only for c++ practice*
 
@@ -19,5 +17,7 @@ g++ day1.cpp -o day1.out -W
 ```
 
 # List
-- Stage_1: For beginner. Very simple scripts. 
-  - Source from : [C++ 入門指南](http://kaiching.org/pydoing/cpp.html)
+- Stage_1: For beginner. Very simple scripts.   
+- Stage_2: For beginner. Very simple scripts. 
+
+> Source from : [C++ 入門指南](http://kaiching.org/pydoing/cpp.html)
