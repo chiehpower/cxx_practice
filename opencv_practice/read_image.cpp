@@ -22,9 +22,6 @@ int main(int argc, char** argv)
         return 1;
     }
 
-    // Mat image;
-    // image = imread("/home/chieh/Pictures/3.png", IMREAD_COLOR);
-    
     cout << img.size() << endl;
 
     imwrite("test_writeimage.png", img);
