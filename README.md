@@ -2,7 +2,7 @@
 
 # C++ practice
 
-[![](https://img.shields.io/badge/Level-Beginner-blue)](https://github.com/chiehpower/cxx_practice) [![](https://img.shields.io/badge/Done-Stage__1-lightgrey)](https://github.com/chiehpower/cxx_practice/tree/master/Stage_1)
+[![](https://img.shields.io/badge/Level-Beginner-blue)](https://github.com/chiehpower/cxx_practice) 
 
 *Only for c++ practice*
 
@@ -17,7 +17,19 @@ g++ day1.cpp -o day1.out -W
 ```
 
 # List
+
 - Stage_1: For beginner. Very simple scripts.   
 - Stage_2: For beginner. Very simple scripts. 
 
 > Source from : [C++ 入門指南](http://kaiching.org/pydoing/cpp.html)
+
+- Opencv_practice : 
+  - extract_element.cpp : Extract the value from Mat in OpenCV 
+  - read_image.cpp : 
+  - dockerfile : The environment for OpenCV of C++ 
+- practice_io : Introduce the fstream library and ofstream usage
+- time_practice : Introduce the time library
+- pointer_practice : Introduce how to use pointer
+
+> Source from : [CPP Road](https://cpproad.blogspot.com/2019/04/c-cpp-road.html)
+
