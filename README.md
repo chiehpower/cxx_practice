@@ -25,7 +25,9 @@ g++ day1.cpp -o day1.out -W
 
 - Opencv_practice : 
   - extract_element.cpp : Extract the value from Mat in OpenCV 
-  - read_image.cpp : 
+  - read_image.cpp : Load an image
+  - exchage_dim.cpp : Exchage the dimensions from HWC to CHW
+  - scale_image.cpp : Scale the value range of image from 0-255 to 0-1
   - dockerfile : The environment for OpenCV of C++ 
 - practice_io : Introduce the fstream library and ofstream usage
 - time_practice : Introduce the time library
