@@ -1,0 +1,1 @@
+finally I was using main_4.cpp this way to adjust the similar result with python.

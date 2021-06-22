@@ -1,3 +1,10 @@
+
+/*
+ * @Author: Chieh
+ * @Description: Practice how to output a file
+ * @FilePath: read_file.cpp
+ */
+
 #include <iostream>
 #include <fstream>
 using namespace std;
